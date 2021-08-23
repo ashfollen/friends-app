@@ -1,4 +1,4 @@
-Friends App 
+
 
 As a user, I would like to:
 - Click to view a profile of my favorite Friends character
