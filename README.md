@@ -8,11 +8,11 @@ As a user, I would like to:
 
 Wireframe/Mockup 
 
-App
--- Banner
----- FriendProfile
--- FriendsContainer
----- FriendCard
--- AddFriendContainer
----- AddList
----- AddForm
+- App
+- -- Banner
+- ---- FriendProfile
+- -- FriendsContainer
+- ---- FriendCard
+- -- AddFriendContainer
+- ---- AddList
+- ---- AddForm
