@@ -7,3 +7,12 @@ As a user, I would like to:
 - Submit a form to add anyone, even myself, to the list of Friends
 
 Wireframe/Mockup 
+
+App
+-- Banner
+---- FriendProfile
+-- FriendsContainer
+---- FriendCard
+-- AddFriendContainer
+---- AddList
+---- AddForm
